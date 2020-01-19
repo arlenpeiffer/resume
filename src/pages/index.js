@@ -1,7 +1,7 @@
 import React from "react"
 import { Global } from "@emotion/core"
 import Resume from "../components/Resume"
-import SEO from "../components/SEO"
+import SEO from "../components/seo"
 import globalStyles from "../constants/globalStyles"
 
 const IndexPage = () => (
