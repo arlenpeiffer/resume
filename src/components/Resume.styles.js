@@ -46,7 +46,7 @@ const lineHeight = css`
 
 const thin = css`
   font-size: 0.75em;
-  font-weight: 200;
+  font-weight: 300;
   opacity: 0.65;
 `
 
@@ -105,7 +105,7 @@ const styles = css`
         letter-spacing: 0.35em;
         line-height: 1.6;
         margin-top: 0.6em;
-        margin-right: 0.8em;
+        margin-right: 0.6em;
         margin-bottom: 0;
         padding: 0.69em;
         text-transform: uppercase;

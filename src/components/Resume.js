@@ -29,7 +29,7 @@ const Resume = () => (
       </ul>
     </Section>
 
-    <Section id="projects" label="Projects">
+    <Section id="projects" label="Recent Projects">
       <ul>
         {resume.projects.map(({ name, summary, technologies, url }) => (
           <li key={name}>

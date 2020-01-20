@@ -6,31 +6,31 @@ const screenWidth = useScreenWidth()
 
 const fontSize = css(
   screenWidth({
-    fontSize: ["1.3em", "1.4em", "1.6em", "1.8em", "2.2em", "2.4em", "2.8em"],
+    fontSize: ["1.8em", "1.8em", "1.8em", "1.8em", "2.2em", "2.4em", "2.8em"],
   })
 )
 
 const h1Size = css(
   screenWidth({
-    fontSize: ["2em", "2.488em", "4.2em", "6.4em"],
+    fontSize: ["3.8em", "4.2em", "4.2em", "6.4em"],
   })
 )
 
 const h2Size = css(
   screenWidth({
-    fontSize: ["1.5em", "1.86em", "1.96em", "2.98em"],
+    fontSize: ["1.35em", "1.5em", "1.96em", "2.98em"],
   })
 )
 
 const h3Size = css(
   screenWidth({
-    fontSize: ["1.1em"],
+    fontSize: ["1em", "1.1em"],
   })
 )
 
 const pageMargin = css(
   screenWidth({
-    padding: ["1rem", "2rem", "5vw"],
+    padding: ["1.5rem", "2rem", "5vw"],
   })
 )
 
