@@ -79,21 +79,21 @@ const resume = {
     {
       name: "restock",
       url: "github.com/arlenpeiffer/restock",
-      technologies: ["React Native", "Expo"],
+      technologies: ["React Native", "Expo", "Jest", "Git"],
       summary:
         "A mobile application for quickly and easily replenishing inventory",
     },
     {
       name: "journal",
       url: "github.com/arlenpeiffer/journal",
-      technologies: ["React", "Firebase"],
+      technologies: ["React", "Firebase", "Git"],
       summary:
         "A food and symptom journal for those dealing with autoimmune disease or chronic pain",
     },
     {
       name: "apartment",
       url: null,
-      technologies: ["React", "Next.js", "Electron", "Node"],
+      technologies: ["React", "Next.js", "Electron", "Node", "Git"],
       summary:
         "An Electron application for controlling Suro, a hardware texture-sequencer and synthesizer",
     },
